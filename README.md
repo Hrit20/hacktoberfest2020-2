@@ -66,6 +66,7 @@ Steps for adding your name below
 | Kanishk J |[@Kanishk7559](https://github.com/kanishk7559)
 | Misa Dravid|[@Misa-Dravid](https://github.com/misa-bot)|
 | Pranjal Soni|[@sonipranjal](https://github.com/sonipranjal)|
+| Hritwika Sarkar|[@Hrit20](https://github.com/Hrit20)|
 
 ***
 
